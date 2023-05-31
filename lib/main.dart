@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
   var heightIN_controller = TextEditingController();
 
   var result = '';
-  var massage = '';
+  var massage = ' ';
 
   @override
   Widget build(BuildContext context) {
